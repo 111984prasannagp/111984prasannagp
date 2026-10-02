@@ -68,15 +68,19 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### 🟣 ALAN-STYLE Contribution Pulse
+### 🐍 Contribution Matrix
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FF72D2&area=true&hide_border=true&custom_title=PRASANNA%20%E2%80%A2%20CONTRIBUTION%20PULSE" width="95%" alt="Contribution Pulse">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-contribution-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-contribution-snake.svg">
+  <img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-contribution-snake-dark.svg" width="95%" alt="Animated GitHub contribution snake">
+</picture>
 
 <br>
 
-<sub>⚡ Activity pulse • AI/developer profile telemetry style</sub>
+<sub>⚡ Live animated contribution matrix • Regenerated automatically by GitHub Actions</sub>
 
 </div>
 
