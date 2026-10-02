@@ -4,7 +4,7 @@
 
 ### Building intelligent systems, automating ideas, and exploring what's possible with technology.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Builder;Exploring+LLMs+%26+AI+Agents;Building+Projects+That+Solve+Real+Problems;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Builder;Exploring+LLMs+%26+AI+Agents;Building+Projects+That+Solve+Real+Problems;Always+Learning.+Always+Building.)
 
 </div>
 
@@ -49,7 +49,7 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 <br/>
 
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" />
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" alt="AI Agents" />
 <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
 <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
 
@@ -63,7 +63,7 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 
 <img src="https://github-readme-stats.vercel.app/api?username=111984prasannagp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=111984prasannagp&theme=transparent&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=111984prasannagp&theme=transparent&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -112,7 +112,7 @@ I believe the best way to learn technology is to build with it, experiment with 
 
 <div align="center">
 
-GitHub is currently the main place to follow my work.
+GitHub is the main place to follow my work and future projects.
 
 **More links coming soon.**
 
