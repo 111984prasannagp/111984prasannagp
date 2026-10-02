@@ -68,19 +68,15 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### 🟩 Contribution Calendar • 🐍
+### 🚀 GitHub Space Shooter
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-calendar-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-calendar-snake.svg">
-  <img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-calendar-snake.svg" width="95%" alt="Full GitHub-style contribution calendar with small moving snake">
-</picture>
+<img src="./gh-space-shooter.gif" width="95%" alt="GitHub contribution space shooter game">
 
 <br>
 
-<sub>🟩 Full GitHub-style contribution heatmap • 🐍 a tiny snake travels across the complete chart</sub>
+<sub>🛸 Your GitHub contribution history transformed into a playable-style space battle</sub>
 
 </div>
 
