@@ -68,15 +68,19 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### 🚀 GitHub Space Shooter
+### 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="./gh-space-shooter.gif" width="95%" alt="GitHub contribution space shooter game">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-snake.svg" width="95%" alt="GitHub contribution snake">
+</picture>
 
 <br>
 
-<sub>🛸 Your GitHub contribution history transformed into a playable-style space battle</sub>
+<sub>🟩 Classic GitHub contribution grid • 🐍 animated snake path generated from your contribution activity</sub>
 
 </div>
 
