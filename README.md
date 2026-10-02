@@ -2,37 +2,47 @@
 
 # PRASANNA
 
-### Building intelligent systems, automating ideas, and exploring what's possible with technology.
+### AI • Automation • Software • Experiments
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Builder;Exploring+LLMs+%26+AI+Agents;Building+Projects+That+Solve+Real+Problems;Always+Learning.+Always+Building.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;Exploring+LLMs+%26+AI+Agents;Automating+Ideas+with+Code;Turning+Experiments+into+Real+Projects;Always+Learning.+Always+Building.)](https://github.com/111984prasannagp)
+
+<br>
+
+<a href="https://github.com/111984prasannagp">
+<img src="https://komarev.com/ghpvc/?username=111984prasannagp&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
+</a>
 
 </div>
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-I'm **PRASANNA**, a developer exploring the intersection of **AI, automation, and software development**.
+I'm **PRASANNA** — a developer exploring **AI, automation, software development, and emerging technologies**.
 
-I enjoy turning ideas into working projects, experimenting with new technologies, and learning by building.
+I learn by building: experimenting with ideas, connecting tools, solving problems, and turning concepts into working projects.
 
 - 🤖 Exploring **LLMs & AI Agents**
 - ⚡ Building **automation workflows**
-- 🧪 Experimenting with new ideas and technologies
-- 🛠️ Learning by building real projects
-- 🚀 Growing a collection of projects over time
+- 🧪 Experimenting with new technologies
+- 💻 Developing with **Python, C & Java**
+- 🗄️ Working with **MySQL**
+- 🔧 Using **Git, GitHub & n8n**
+- 🚀 Building projects that grow with what I learn
 
 ---
 
-## 🧠 What I'm Exploring
+## 🧠 Focus Areas
 
-| Area | Focus |
-|---|---|
-| 🤖 Artificial Intelligence | LLMs, AI Agents, intelligent systems |
-| ⚡ Automation | Workflow automation & integrations |
-| 💻 Software Development | Python, C, Java |
-| 🗄️ Databases | MySQL |
-| 🔧 Developer Tools | Git, GitHub, n8n |
+<div align="center">
+
+| 🤖 AI | ⚡ Automation | 💻 Development |
+|:---:|:---:|:---:|
+| LLMs | n8n | Python |
+| AI Agents | Integrations | C |
+| Intelligent Systems | Workflows | Java |
+
+</div>
 
 ---
 
@@ -40,71 +50,78 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" alt="Python C Java" />
+<img src="https://skillicons.dev/icons?i=python,c,java,git,github,mysql&theme=dark" alt="Python C Java Git GitHub MySQL">
 
-### AI & Automation
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git GitHub" />
+<br><br>
 
-<br/>
-
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" alt="AI Agents" />
-<img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/LLMs-161B22?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
+<img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&logoColor=white" alt="AI Agents">
+<img src="https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n">
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=111984prasannagp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=111984prasannagp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats">
 
-<img src="https://streak-stats.demolab.com?user=111984prasannagp&theme=transparent&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=111984prasannagp&theme=transparent&hide_border=true" height="165" alt="GitHub Streak">
 
-</div>
+<br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph">
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 🤖 ALAN — Personal AI
-A modular personal AI system exploring AI, voice, memory, automation, computer control, and security.
 
-**Stack:** Python · AI · Automation · Voice · Modular Architecture
+A modular personal AI system exploring **AI, voice, memory, automation, computer control, and security**.
 
-🔗 [View ALAN →](https://github.com/111984prasannagp/ALAN-Personal-AI)
+**Built with:** Python · AI · Automation · Voice · Modular Architecture
 
-> More projects will be added here as I build them.
+<a href="https://github.com/111984prasannagp/ALAN-Personal-AI">View ALAN →</a>
+
+> More projects will be featured here as they are built.
 
 ---
 
-## 🧪 Currently Building
+## 🧪 What I'm Building
 
 <div align="center">
 
-**AI • Automation • Experiments • Developer Tools**
+**AI Systems**  •  **Automation**  •  **Developer Tools**  •  **Experiments**
 
 </div>
 
-I'm continuously experimenting with new ideas and turning the interesting ones into real projects.
+I'm continuously exploring new ideas and turning the ones worth keeping into real projects.
 
 ---
 
-## 🎯 Development Philosophy
+## 🎯 How I Build
+
+**Idea → Experiment → Build → Test → Improve → Repeat**
 
 > **Build it. Break it. Understand it. Improve it.**
 
-I believe the best way to learn technology is to build with it, experiment with it, and keep improving.
+---
+
+## 📌 Profile Roadmap
+
+- [x] Professional profile foundation
+- [x] Animated introduction
+- [x] Skills & technology stack
+- [x] GitHub analytics
+- [x] Featured project
+- [ ] Add more projects
+- [ ] Add professional social links
+- [ ] Expand AI & automation portfolio
 
 ---
 
@@ -112,9 +129,9 @@ I believe the best way to learn technology is to build with it, experiment with 
 
 <div align="center">
 
-GitHub is the main place to follow my work and future projects.
+**GitHub is currently the main place to follow my work.**
 
-**More links coming soon.**
+*More professional links coming soon.*
 
 </div>
 
