@@ -68,19 +68,15 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### 🐍 Contribution Matrix
+### 🪐 Contribution Orbit
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-contribution-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-contribution-snake.svg">
-  <img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/github-contribution-snake-dark.svg" width="95%" alt="Animated GitHub contribution snake">
-</picture>
+<img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-orbit.svg" width="95%" alt="Animated contribution orbit">
 
 <br>
 
-<sub>⚡ Live animated contribution matrix • Regenerated automatically by GitHub Actions</sub>
+<sub>🪐 A custom 365-day activity constellation • self-generated from GitHub contribution data</sub>
 
 </div>
 
