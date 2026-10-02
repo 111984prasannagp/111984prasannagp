@@ -1,4 +1,4 @@
-name: Contribution Graph Snake
+name: Contribution Calendar Snake
 
 on:
   push:
@@ -14,16 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate classic green contribution graph with small snake
-        uses: leereilly/contribution-graph-art@v1
-        with:
-          github_user_name: 111984prasannagp
-          animation_mode: snake
-          food_count: "3"
-          palette: auto
-          output_path: dist/contribution-graph-snake.svg
+      - name: Checkout profile
+        uses: actions/checkout@v4
 
-      - name: Publish contribution graph
+      - name: Generate full GitHub-style calendar
+        run: python scripts/generate_contribution_calendar.py
+
+      - name: Publish calendar SVGs
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
