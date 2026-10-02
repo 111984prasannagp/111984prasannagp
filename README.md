@@ -1,3 +1,5 @@
+<!-- README kept concise; the activity cards are maintained here. -->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/main/assets/profile-banner.svg" width="100%" alt="Animated pixel art profile banner">
@@ -62,7 +64,7 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <img src="https://github-readme-stats.vercel.app/api?username=111984prasannagp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=58A6FF&icon_color=8B5CF6&text_color=E6EDF3" height="165" alt="GitHub Stats">
 
-<img src="https://streak-stats.demolab.com?user=111984prasannagp&theme=transparent&hide_border=true&ring=58A6FF&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" height="165" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=111984prasannagp&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=E6EDF3&langs_count=6" height="165" alt="Top Languages">
 
 <br><br>
 
@@ -102,7 +104,7 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <div align="center">
 
-**AI Systems**  •  **Automation**  •  **Developer Tools**  •  **Experiments**
+**AI Systems** • **Automation** • **Developer Tools** • **Experiments**
 
 <br>
 
@@ -136,6 +138,7 @@ I'm continuously exploring new ideas and turning the ones worth keeping into rea
 - [x] GitHub analytics
 - [x] Featured project
 - [x] Contribution activity graph
+- [x] Developer language overview
 - [ ] Add more projects
 - [ ] Add professional social links
 - [ ] Expand AI & automation portfolio
