@@ -68,13 +68,13 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### 📈 Contribution Activity
+### 📊 Contribution Growth
 
-<img src="https://github.pumbas.net/api/contributions/111984prasannagp?colour=58A6FF&bgColour=0D1117&dotColour=67E8F9" width="95%" alt="Prasanna's GitHub contribution activity">
+<img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=111984prasannagp&theme=dark&size=large" width="95%" alt="Prasanna's GitHub contribution growth">
 
 <br>
 
-<sub>Live contribution activity • Updated automatically from GitHub</sub>
+<sub>📈 Cumulative contribution growth • Generated from public GitHub activity</sub>
 
 </div>
 
@@ -137,7 +137,7 @@ I'm continuously exploring new ideas and turning the ones worth keeping into rea
 - [x] Skills & technology stack
 - [x] GitHub analytics
 - [x] Featured project
-- [x] Contribution activity graph
+- [x] Contribution growth visualization
 - [x] Developer language overview
 - [ ] Add more projects
 - [ ] Add professional social links
