@@ -68,13 +68,15 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### 📊 Contribution Growth
+### 🟣 ALAN-STYLE Contribution Pulse
 
-<img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=111984prasannagp&theme=dark&size=large" width="95%" alt="Prasanna's GitHub contribution growth">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FF72D2&area=true&hide_border=true&custom_title=PRASANNA%20%E2%80%A2%20CONTRIBUTION%20PULSE" width="95%" alt="Contribution Pulse">
 
 <br>
 
-<sub>📈 Cumulative contribution growth • Generated from public GitHub activity</sub>
+<sub>⚡ Activity pulse • AI/developer profile telemetry style</sub>
 
 </div>
 
