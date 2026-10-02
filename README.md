@@ -68,15 +68,19 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### 🟩 Contribution Grid • 🐍
+### 🟩 Contribution Calendar • 🐍
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-graph-snake.svg" width="95%" alt="Classic GitHub contribution graph with animated snake">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-calendar-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-calendar-snake.svg">
+  <img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-calendar-snake.svg" width="95%" alt="Full GitHub-style contribution calendar with small moving snake">
+</picture>
 
 <br>
 
-<sub>🟩 Classic GitHub contribution heatmap • 🐍 Small snake travels across the real activity grid</sub>
+<sub>🟩 Full GitHub-style contribution heatmap • 🐍 a tiny snake travels across the complete chart</sub>
 
 </div>
 
