@@ -1,16 +1,12 @@
 <div align="center">
 
-# PRASANNA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=PRASANNA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Software%20%7C%20Experiments&descAlignY=62&descSize=18" width="100%" alt="Animated header">
 
-### AI • Automation • Software • Experiments
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;Exploring+LLMs+%26+AI+Agents;Automating+Ideas+with+Code;Turning+Experiments+into+Real+Projects;Always+Learning.+Always+Building.)](https://github.com/111984prasannagp)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+Intelligent+Systems;Exploring+LLMs+%26+AI+Agents;Automating+Ideas+with+Code;Turning+Experiments+into+Real+Projects;Always+Learning.+Always+Building.)](https://github.com/111984prasannagp)
 
 <br>
 
-<a href="https://github.com/111984prasannagp">
-<img src="https://komarev.com/ghpvc/?username=111984prasannagp&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
-</a>
+<img src="https://komarev.com/ghpvc/?username=111984prasannagp&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -62,7 +58,7 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Developer Activity
 
 <div align="center">
 
@@ -70,9 +66,9 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <img src="https://streak-stats.demolab.com?user=111984prasannagp&theme=transparent&hide_border=true" height="165" alt="GitHub Streak">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph">
 
 </div>
 
@@ -80,13 +76,23 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 ## 🚀 Featured Project
 
-### 🤖 ALAN — Personal AI
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=90&text=🤖%20ALAN%20%E2%80%94%20Personal%20AI&fontSize=28&fontColor=58A6FF&animation=fadeIn" width="100%" alt="ALAN banner">
+
+</div>
 
 A modular personal AI system exploring **AI, voice, memory, automation, computer control, and security**.
 
 **Built with:** Python · AI · Automation · Voice · Modular Architecture
 
-<a href="https://github.com/111984prasannagp/ALAN-Personal-AI">View ALAN →</a>
+<div align="center">
+
+<a href="https://github.com/111984prasannagp/ALAN-Personal-AI">
+<img src="https://img.shields.io/badge/EXPLORE%20ALAN-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore ALAN">
+</a>
+
+</div>
 
 > More projects will be featured here as they are built.
 
@@ -98,6 +104,10 @@ A modular personal AI system exploring **AI, voice, memory, automation, computer
 
 **AI Systems**  •  **Automation**  •  **Developer Tools**  •  **Experiments**
 
+<br>
+
+<sub>Ideas → prototypes → real projects</sub>
+
 </div>
 
 I'm continuously exploring new ideas and turning the ones worth keeping into real projects.
@@ -106,9 +116,15 @@ I'm continuously exploring new ideas and turning the ones worth keeping into rea
 
 ## 🎯 How I Build
 
-**Idea → Experiment → Build → Test → Improve → Repeat**
+<div align="center">
+
+**💡 Idea** → **🧪 Experiment** → **⚙️ Build** → **🧪 Test** → **✨ Improve** → **🚀 Repeat**
+
+<br><br>
 
 > **Build it. Break it. Understand it. Improve it.**
+
+</div>
 
 ---
 
@@ -131,6 +147,8 @@ I'm continuously exploring new ideas and turning the ones worth keeping into rea
 
 **GitHub is currently the main place to follow my work.**
 
+<br>
+
 *More professional links coming soon.*
 
 </div>
@@ -138,6 +156,8 @@ I'm continuously exploring new ideas and turning the ones worth keeping into rea
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated footer">
 
 ### ⚡ Always learning. Always building.
 
