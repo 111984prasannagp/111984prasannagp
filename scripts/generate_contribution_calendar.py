@@ -39,7 +39,7 @@ def fetch_contributions() -> tuple[dict[date, int], int]:
         id_match = re.search(r'id=[\"\']([^\"\']+)[\"\']', tag)
         if not (date_match and level_match):
             continue
-        days[date.fromisoformat(date_match.group(1))] = int(level_match.group(2))
+        days[date.fromisoformat(date_match.group(1))] = int(level_match.group(1))
 
     if not days:
         raise RuntimeError("GitHub contribution cells were not found.")
