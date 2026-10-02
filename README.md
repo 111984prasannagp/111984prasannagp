@@ -68,15 +68,15 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### 🪐 Contribution Orbit
+### ✦ Contribution Constellation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-orbit.svg" width="95%" alt="Animated contribution orbit">
+<img src="./assets/contribution-constellation.svg" width="95%" alt="PRASANNA contribution constellation">
 
 <br>
 
-<sub>🪐 A custom 365-day activity constellation • self-generated from GitHub contribution data</sub>
+<sub>✦ Custom GitHub contribution visualization • built specifically for this profile</sub>
 
 </div>
 
