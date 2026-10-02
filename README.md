@@ -66,7 +66,13 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=00000000&color=58A6FF&line=8B5CF6&point=67E8F9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph">
+### 📈 Contribution Activity
+
+<img src="https://github.pumbas.net/api/contributions/111984prasannagp?colour=58A6FF&bgColour=0D1117&dotColour=67E8F9" width="95%" alt="Prasanna's GitHub contribution activity">
+
+<br>
+
+<sub>Live contribution activity • Updated automatically from GitHub</sub>
 
 </div>
 
@@ -129,6 +135,7 @@ I'm continuously exploring new ideas and turning the ones worth keeping into rea
 - [x] Skills & technology stack
 - [x] GitHub analytics
 - [x] Featured project
+- [x] Contribution activity graph
 - [ ] Add more projects
 - [ ] Add professional social links
 - [ ] Expand AI & automation portfolio
