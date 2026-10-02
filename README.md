@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=PRASANNA&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Software%20%7C%20Experiments&descAlignY=62&descSize=18" width="100%" alt="Animated header">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+Intelligent+Systems;Exploring+LLMs+%26+AI+Agents;Automating+Ideas+with+Code;Turning+Experiments+into+Real+Projects;Always+Learning.+Always+Building.)](https://github.com/111984prasannagp)
+<img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/main/assets/profile-banner.svg" width="100%" alt="Animated pixel art profile banner">
 
 <br>
 
@@ -50,9 +48,9 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LLMs-161B22?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
-<img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&logoColor=white" alt="AI Agents">
-<img src="https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n">
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=67E8F9" alt="LLMs">
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logoColor=8B5CF6" alt="AI Agents">
+<img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=38BDF8" alt="n8n">
 
 </div>
 
@@ -62,13 +60,13 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=111984prasannagp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=111984prasannagp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=58A6FF&icon_color=8B5CF6&text_color=E6EDF3" height="165" alt="GitHub Stats">
 
-<img src="https://streak-stats.demolab.com?user=111984prasannagp&theme=transparent&hide_border=true" height="165" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=111984prasannagp&theme=transparent&hide_border=true&ring=58A6FF&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" height="165" alt="GitHub Streak">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=111984prasannagp&bg_color=00000000&color=58A6FF&line=8B5CF6&point=67E8F9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph">
 
 </div>
 
@@ -78,21 +76,17 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=90&text=🤖%20ALAN%20%E2%80%94%20Personal%20AI&fontSize=28&fontColor=58A6FF&animation=fadeIn" width="100%" alt="ALAN banner">
+### 🤖 ALAN — Personal AI
 
-</div>
-
-A modular personal AI system exploring **AI, voice, memory, automation, computer control, and security**.
-
-**Built with:** Python · AI · Automation · Voice · Modular Architecture
-
-<div align="center">
+**A modular personal AI system built around AI, voice, memory, automation, computer control, and security.**
 
 <a href="https://github.com/111984prasannagp/ALAN-Personal-AI">
-<img src="https://img.shields.io/badge/EXPLORE%20ALAN-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore ALAN">
+<img src="https://img.shields.io/badge/EXPLORE%20ALAN-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore ALAN">
 </a>
 
 </div>
+
+**Built with:** Python · AI · Automation · Voice · Modular Architecture
 
 > More projects will be featured here as they are built.
 
@@ -131,7 +125,7 @@ I'm continuously exploring new ideas and turning the ones worth keeping into rea
 ## 📌 Profile Roadmap
 
 - [x] Professional profile foundation
-- [x] Animated introduction
+- [x] Animated pixel-art introduction
 - [x] Skills & technology stack
 - [x] GitHub analytics
 - [x] Featured project
@@ -157,9 +151,7 @@ I'm continuously exploring new ideas and turning the ones worth keeping into rea
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated footer">
-
-### ⚡ Always learning. Always building.
+### ⚡ ALWAYS LEARNING • ALWAYS BUILDING
 
 <sub>Designed & built by PRASANNA</sub>
 
