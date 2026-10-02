@@ -68,15 +68,15 @@ I learn by building: experimenting with ideas, connecting tools, solving problem
 
 <br><br>
 
-### ✦ Contribution Constellation
+### 🟩 Contribution Grid • 🐍
 
 <div align="center">
 
-<img src="./assets/contribution-constellation.svg" width="95%" alt="PRASANNA contribution constellation">
+<img src="https://raw.githubusercontent.com/111984prasannagp/111984prasannagp/output/contribution-graph-snake.svg" width="95%" alt="Classic GitHub contribution graph with animated snake">
 
 <br>
 
-<sub>✦ Custom GitHub contribution visualization • built specifically for this profile</sub>
+<sub>🟩 Classic GitHub contribution heatmap • 🐍 Small snake travels across the real activity grid</sub>
 
 </div>
 
